@@ -1,0 +1,8 @@
+{
+  "name": "Visionary AI Video Studio",
+  "description": "Transform a sequence of 5-40 images into a cinematic video using Veo 3.1 and edit images with Gemini 2.5 Flash Image. This professional studio tool analyzes your visual narrative and brings it to life with advanced AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
